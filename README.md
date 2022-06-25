@@ -24,5 +24,37 @@ En caso de necesitar realizar las migraciones
 
 ### Vistas
 
+Para acceder al sitio, la url correspondiente 
+
+
+`http://127.0.0.1:8000/coderapp/`
+
+Que se ve de esta manera
+
+
+
+
+#### Vista de Cursos
+
+La vista incluye un form de búsqueda incluido. 
+
+`http://127.0.0.1:8000/coderapp/cursos/`
+
+
+
+#### Vista de Estudiantes
+
+La vista incluye un form de búsqueda incluido. 
+
+`http://127.0.0.1:8000/coderapp/estudiantes/`
+
+
+
+#### Vista de Profesores
+
+La vista incluye un form de búsqueda incluido. 
+
+`http://127.0.0.1:8000/coderapp/profesores/`
+
 
 
