@@ -5,7 +5,7 @@
 
 *Nombre: Villafañe, Roxana Noelia*
 
-#### Instalación
+### Instalación
 
 Instalación de Django
 
@@ -22,7 +22,7 @@ En caso de necesitar realizar las migraciones
 `$ python3 manage.py makemigrations`
 
 
-#### Vistas
+### Vistas
 
 
 
