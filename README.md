@@ -67,4 +67,34 @@ La vista incluye un form de búsqueda incluido.
 
 
 
+#### Formularios de ingreso de datos
+
+Estos formularios se encuentran en vistas separadas
+
+Para ingresar datos de **Estudiantes**
+
+
+`http://127.0.0.1:8000/coderapp/crear_curso/`
+
+![agregar_estudiante](ag_est.png)
+
+
+
+Para ingresar datos de **Profesores**
+
+`http://127.0.0.1:8000/coderapp/agregar_estudiante/`
+
+![agregar_profesor](ag_prof.png)
+
+
+
+Para ingresar datos de **Cursos**
+
+`http://127.0.0.1:8000/coderapp/crear_curso/`
+
+
+![agregar_curso](ag_curso.png)
+
+
+
 
