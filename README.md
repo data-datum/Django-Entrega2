@@ -9,7 +9,7 @@
 
 Instalación de Django
 
-$ python3 -m pip install Django
+`$ python3 -m pip install Django`
 
 Para correr el proyecto 
 
