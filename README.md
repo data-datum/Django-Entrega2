@@ -41,6 +41,8 @@ La vista incluye un form de búsqueda incluido.
 
 `http://127.0.0.1:8000/coderapp/cursos/`
 
+![cursos](cursos.png)
+
 
 
 #### Vista de Estudiantes
@@ -50,12 +52,19 @@ La vista incluye un form de búsqueda incluido.
 `http://127.0.0.1:8000/coderapp/estudiantes/`
 
 
+![estudiantes](estudiantes.png)
+
+
 
 #### Vista de Profesores
 
 La vista incluye un form de búsqueda incluido. 
 
 `http://127.0.0.1:8000/coderapp/profesores/`
+
+
+![profesores](profesores.png)
+
 
 
 
