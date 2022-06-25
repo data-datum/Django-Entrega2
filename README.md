@@ -29,7 +29,8 @@ Para acceder al sitio, la url correspondiente
 
 `http://127.0.0.1:8000/coderapp/`
 
-Que se ve de esta manera
+
+![inicio](inicio.png)
 
 
 
