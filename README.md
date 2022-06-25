@@ -74,7 +74,7 @@ Estos formularios se encuentran en vistas separadas
 Para ingresar datos de **Estudiantes**
 
 
-`http://127.0.0.1:8000/coderapp/crear_curso/`
+`http://127.0.0.1:8000/coderapp/agregar_estudiante/`
 
 ![agregar_estudiante](ag_est.png)
 
@@ -82,7 +82,7 @@ Para ingresar datos de **Estudiantes**
 
 Para ingresar datos de **Profesores**
 
-`http://127.0.0.1:8000/coderapp/agregar_estudiante/`
+`http://127.0.0.1:8000/coderapp/agregar_profesor/`
 
 ![agregar_profesor](ag_prof.png)
 
